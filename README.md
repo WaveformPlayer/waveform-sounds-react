@@ -6,7 +6,7 @@
 A searchable, filterable sound list — server-rendered, then adopted by the runtime — with typed props, callback props and an imperative ref handle.
 
 [![npm version](https://img.shields.io/npm/v/@arraypress/waveform-sounds-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-sounds-react)
-[![license](https://img.shields.io/npm/l/@arraypress/waveform-sounds-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/arraypress/waveform-sounds-react/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@arraypress/waveform-sounds-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/WaveformPlayer/waveform-sounds-react/blob/main/LICENSE)
 
 **[Documentation](https://docs.waveformplayer.com/)** · [npm](https://www.npmjs.com/package/@arraypress/waveform-sounds-react)
 

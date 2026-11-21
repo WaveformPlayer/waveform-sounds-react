@@ -16,7 +16,7 @@
  *   - A {@link WaveformSoundsHandle} exposed via `ref` for imperative
  *     control (`play`, `setFilter`, `setSort`, …).
  *
- * @see {@link https://github.com/arraypress/waveform-sounds} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-sounds} — core library
  */
 import type { CSSProperties } from 'react';
 import type {
